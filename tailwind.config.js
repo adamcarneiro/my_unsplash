@@ -12,3 +12,6 @@ module.exports = {
   ],
 }
 
+// colors:{
+  // 'btn-green':'#16a34a',
+// },
